@@ -1,2 +1,3 @@
-uber_logic_analyzer
+logic_analyzer
 ===================
+VHDL test project
